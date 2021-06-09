@@ -1,6 +1,6 @@
 Hi, I am Nishant Pundir first of all, I am glad to introduce myself in front of you, I am from Haridwar, India. 
 I am 3rd year IT student at College of Enginnering Roorkee and working as graphic designer intern at HireAChamp.
-I like to do somthing criative that's why I am interested in Web development mosttly in frontend part and Illustrations.
+I like to do something creative that's why I am interested in Web development mostly in frontend part and Illustrations.
 I also like to code on Python. currently, I am learning to create UI with Python along with Machine learning.
 https://www.linkedin.com/in/nishantpundir/ this is my Linkedin profile I am looking forward to connecting with you
 check my codepen projects https://codepen.io/nishantpundir00
