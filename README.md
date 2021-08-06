@@ -4,9 +4,3 @@ I like to do something creative that's why I am interested in Web development mo
 I also like to code on Python. currently, I am learning to create UI with Python along with Machine learning.
 https://www.linkedin.com/in/nishantpundir/ this is my Linkedin profile I am looking forward to connecting with you
 check my codepen projects https://codepen.io/nishantpundir00
-
-
-!---
-nishantpundir00/nishantpundir00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
